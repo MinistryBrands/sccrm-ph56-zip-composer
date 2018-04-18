@@ -1,4 +1,4 @@
-# sccrm-ph56-zip-composer
+# sccrm-php56-zip-composer
 
 A custom Docker image to install Composer and the Zip PHP extension on top of the PHP 5.6.30 image.
 
